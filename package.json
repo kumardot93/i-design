@@ -1,0 +1,19 @@
+{
+  "name": "i-design",
+  "version": "1.0.0-beta.0",
+  "description": "Design templates and layout on web. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumardot93/i-design.git"
+  },
+  "author": "Aditya Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kumardot93/i-design/issues"
+  },
+  "homepage": "https://github.com/kumardot93/i-design#readme"
+}
